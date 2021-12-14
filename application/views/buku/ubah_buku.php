@@ -66,6 +66,6 @@
 			</form> 
 			<?php } ?>
 		</div>
-	</div>
+	</div> 
 	</div>
     

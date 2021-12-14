@@ -55,7 +55,7 @@
         $(this).next('.custom-filelabel').addClass("selected").html(fileName);
     });
 
-    $(document).ready(function() {
+    $(document).ready(function() { 
         $("#table-datatable").dataTable();
     });
     $('.alert-message').alert().delay(3500).slideUp('slow');

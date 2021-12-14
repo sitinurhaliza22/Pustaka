@@ -54,4 +54,4 @@ name="password2" placeholder="Ulangi Password">
                 </div>
             </div>
         
-        </div>
+        </div> 
