@@ -77,3 +77,4 @@ if ($upload_image) {
         }
     }
 }
+ 

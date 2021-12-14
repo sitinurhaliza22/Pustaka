@@ -20,4 +20,4 @@ public function index()
 
         $this->load->view('view_latihan1', $data);
     }
-}
+} 

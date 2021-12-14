@@ -138,7 +138,7 @@ class Autentifikasi extends CI_Controller
             $this->session->set_flashdata('pesan', '<div class="alert alert-success alert-message" role="alert">Selamat!! akun member anda sudah dibuat. Silahkan Aktivasi Akun anda</div>');
             redirect('autentifikasi');
         }
-    }
+    } 
 
     
 

@@ -245,5 +245,5 @@ class Buku extends CI_Controller
     }
 
 
-}
+} 
 

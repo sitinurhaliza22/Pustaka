@@ -18,4 +18,4 @@ class Sepatu extends CI_Controller
         ];  
         $this->load->view('view-data-sepatu', $data); 
     } 
-}
+} 
