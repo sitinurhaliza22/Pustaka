@@ -31,7 +31,7 @@
                         <input type="text" name="kode" id="kode">
                     </td>
                 </tr>
-                <tr>
+                <tr> 
                     <th>Nama MTK</th>
                     <td>:</td>
                     <td>

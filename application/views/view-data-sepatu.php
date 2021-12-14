@@ -36,7 +36,7 @@
                     <a href="<?= base_url('sepatu'); ?>">Kembali</a>
                     </td>
                 </tr>
-            </table>
+            </table> 
         </center>
     </body>
 </html>

@@ -29,9 +29,9 @@
                         <input type="text" name="nohp" id="nohp" placeholder='Input No Hp'>
                     </td>
                 </tr>
-                <tr>
+                <tr> 
                     <th>Merk</th>
-                    <td>:</td>
+                    <td>:</td> 
                     <td> <select name="merk" id="merk">
                         <option value="">Pilih Merk</option>
                         <option value="Nike">Nike</option>
