@@ -19,4 +19,4 @@ class ModelSepatu extends CI_Model
 
     return $this->harga_sepatu;
     }
-}
+} 
