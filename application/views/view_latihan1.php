@@ -13,3 +13,4 @@ $nilai1 . " + " . $nilai2 . " = " . $hasil; ?>
 </body>
 
 </html>
+ 
