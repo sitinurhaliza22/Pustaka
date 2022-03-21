@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <title>Tampil Data Kuliah</title>
+    <title>Tampil Data Matakuliah</title>
 </head>
 
 <body>
@@ -9,7 +9,7 @@
         <table>
             <tr>
                 <th colspan="3">
-                    Tampil Data Kuliah
+                    Tampil Data Mata Kuliah
                 </th>
             </tr>
             <tr>
@@ -40,13 +40,11 @@
             </tr>
             <tr>
                 <td colspan="3" align="center">
-                    <a href="<?= base_url('Matakuliah');
-?>">Kembali</a>
+                    <a href="<?= base_url('matakuliah'); ?>">Kembali</a>
                 </td>
             </tr>
         </table>
     </center>
 </body>
 
-</html> 
- 
+</html>

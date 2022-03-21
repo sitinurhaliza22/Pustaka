@@ -9,6 +9,4 @@ class Contoh1 extends CI_Controller
             olah raga yang saya sukai adalah
             Bulutangkis";
     }
-} 
-
- 
+}
